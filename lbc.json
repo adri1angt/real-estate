@@ -1,0 +1,6 @@
+{
+	"price": "integer",
+	"city": "string",
+	"surface": "double",
+	"postalCode": "integer"
+}

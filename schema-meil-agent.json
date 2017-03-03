@@ -1,0 +1,6 @@
+{
+	"City": "string",
+	"departement": "string",
+	"surface": "double",
+	"price": "integer"
+}
